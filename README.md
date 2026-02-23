@@ -33,17 +33,17 @@ O layout foi desenvolvido para funcionar em:
 - Mobile (1 coluna)
 
 ### 🖥️ Versão Desktop
-![Versão Desktop](assets/screenshots/desktop.png)
+![Versão Desktop](assets/pc.png)
 
 ---
 
 ### 📱 Versão Tablet
-![Versão Tablet](assets/screenshots/tablet.png)
+![Versão Tablet](assets/tablete.png)
 
 ---
 
 ### 📲 Versão Mobile
-![Versão Mobile](assets/screenshots/mobile.png)
+![Versão Mobile](assets/celular.png)
 
 ## 🔗 Link do Projeto: https://maria-elane7.github.io/projeto-b7burger/
 
